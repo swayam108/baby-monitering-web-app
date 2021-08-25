@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#heading{
+    margin-left: 560px;
+    color: #2b9cff;
+    position: fixed;
+    margin-top: 120px;
+}
+#status{
+font-size: 21px;
+margin-left: 50px;
+margin-top: 100px;
+}
+#fon{
+    font-size: 21px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+b{
+    color: red;
+    display: inline-block;
+}
+#note_con{
+ position: fixed;
+ z-index: 10;
+ margin-top: 470px;
+ margin-left: 50px;
+ font-size: 15px;
+}
+#note_con h6{
+    font-size: 15px;
+}
+.line {
+    border-left: 6px solid rgb(255, 0, 0);
+    height: 15px;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+    margin-top: 80px;
+}
